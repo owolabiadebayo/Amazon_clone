@@ -1,0 +1,20 @@
+.Navbar{
+  background-color: #232353;
+  height: 40px;
+}
+.Navbar__link{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+span{
+  padding: 10px;
+  color: white;
+}
+.amazon{
+  background-color: #232353;
+  border: 0;
+  outline: 2px #fff;
+  padding-top: 10px;
+}
